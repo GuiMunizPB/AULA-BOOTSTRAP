@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana;
+    margin: auto
+}
+.navbar {
+    background-color: whitesmoke;
+}
+.logo-image {
+    background-image: bisque;
+    border-radius: 50%;
+}
+.quem-somos {
+    background-color:whitesmoke;
+    color:black
+}
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.quemsomos-image {
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+}
+.parceiros {
+    background-color:coral;
+}
+.bg-footer {
+    background-color: black;
+    color:whitesmoke
+}
